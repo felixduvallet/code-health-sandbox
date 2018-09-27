@@ -1,1 +1,1 @@
-# stickler-ci-sandbox
+# Code health sandbox
